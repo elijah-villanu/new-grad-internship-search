@@ -1,6 +1,6 @@
 # New-Grad Internships — CS / Software Engineering
 
-Internships in the United States (or remote) that accept new graduates (graduated summer/fall 2026, including August 2026). Updated daily. Full history is preserved via git — entries are never pruned for age; postings whose applications have closed are removed. ✅ marks positions already applied to.
+Internships in the United States (or remote) that accept new graduates (graduated summer/fall 2026, including August 2026). Updated daily. Full history is preserved via git — entries are never pruned for age; postings whose applications have closed are removed.
 
 **Criteria for every entry:** CS / software engineering internship (not a full-time role) · USA or remote · JD accepts new graduates (no current-enrollment / active-student requirement) · posting open 7 days or less when found · not a duplicate.
 
