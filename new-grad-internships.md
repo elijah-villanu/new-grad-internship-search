@@ -6,6 +6,7 @@ Internships in the United States (or remote) that accept 2026 graduates (spring,
 
 | Date Published | Position | Company | Location | Evidence | Application Link |
 |---|---|---|---|---|---|
+| 2026-11-02 | Engineering Intern | String | New York, NY (On-site) | No enrollment or degree requirement — application asks for a project link and "How do you work with coding agents?"; software-development company. | <a href="https://www.linkedin.com/jobs/view/4486164886/"><button>Apply</button></a> |
 | 2026-10-31 | Software Engineer – Intern (US) | Citadel Securities | Miami, FL / New York, NY | "Bachelor's, master's or PhD in computer science, computer engineering or related fields" — no enrollment or graduation-date requirement; 11-week internship. | <a href="https://www.citadelsecurities.com/careers/details/software-engineer-intern-us/"><button>Apply</button></a> |
 | 2026-10-31 | Software Engineer Intern - Arango Cookbooks | Arango | United States (Remote) | "Student or recent grad in CS, data science, or a related field" — recent graduates accepted with no enrollment requirement. | <a href="https://www.linkedin.com/jobs/view/4485934151"><button>Apply</button></a> |
 | 2026-10-30 | Software Engineer Intern | MeeBoss | United States (Remote) | "Education: High school or equivalent." No enrollment or graduate-degree requirement. (Repost under a new posting ID of the MeeBoss role removed 2026-10-30 as closed; new posting verified open.) | <a href="https://www.linkedin.com/jobs/view/4485658263"><button>Apply</button></a> |
